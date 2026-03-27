@@ -1,8 +1,8 @@
 class ClaudeStatus < Formula
   desc "Real-time token usage and cost monitoring for Claude Code"
   homepage "https://github.com/oscarangulo/claude-status"
-  url "https://github.com/oscarangulo/claude-status/archive/refs/tags/v0.4.9.tar.gz"
-  sha256 "7f1b0a4fca4d34b0ad86189e0a954265af66a6acdf38af81955564a021db1cbf"
+  url "https://github.com/oscarangulo/claude-status/archive/refs/tags/v0.4.10.tar.gz"
+  sha256 "10a7ac7a02bf288464b21262eba01b9d0332dc46414cc5fa46687a3ba2e70b94"
   license "MIT"
   head "https://github.com/oscarangulo/claude-status.git", branch: "main"
 
